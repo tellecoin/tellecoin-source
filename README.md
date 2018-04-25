@@ -4,7 +4,7 @@ TelleCoin integration/staging tree
 http://www.tellecoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 TelleCoin Developers
+Copyright © 2017-2022 The TelleCoin developers
 
 What is TelleCoin?
 ----------------
