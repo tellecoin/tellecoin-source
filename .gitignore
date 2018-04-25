@@ -1,0 +1,34 @@
+src/*.exe
+src/tellecoin
+src/tellecoind
+src/test_tellecoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.tellecoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+tellecoin-qt
+TelleCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+tellecoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
